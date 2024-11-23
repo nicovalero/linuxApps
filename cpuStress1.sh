@@ -25,5 +25,4 @@ done
 
 # Wait for the processes to complete
 wait
-
 echo "CPU load complete."
